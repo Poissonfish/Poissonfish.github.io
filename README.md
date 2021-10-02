@@ -1,2 +1,2 @@
-### James Chen's Personal Website 
-https://poissonfish.github.io
+# Poissonfish.github.io
+[Personal Website](https://poissonfish.github.io)
