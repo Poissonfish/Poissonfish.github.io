@@ -1,0 +1,35 @@
+.basic-timeline-demo {
+  /* define the layout for the container element */
+  display: flex;
+  align-items: center;
+}
+
+.el {
+  /* define the styles for the elements being animated */
+  position: relative;
+  display: inline-block;
+}
+
+.square {
+  /* define the styles for the square element */
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.circle {
+  /* define the styles for the circle element */
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border-radius: 50%;
+}
+
+.triangle {
+  /* define the styles for the triangle element */
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid green;
+}
