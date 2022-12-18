@@ -3,6 +3,7 @@
     "animejs": "^3.2.1",
     "gsap": "^3.11.3",
     "homebridge-config-ui-x": "^4.50.2",
-    "ring-client-api": "^11.6.0"
+    "ring-client-api": "^11.6.0",
+    "vue": "^3.2.45"
   }
 }
